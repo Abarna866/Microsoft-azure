@@ -32,16 +32,6 @@ Module completion screenshots
 
 Final course completion certificate
 
-📂 Repository Structure
-
-Microsoft-Azure-Course-Completion
-│
-├── screenshots
-│   ├── module1.png
-│   ├── module2.png
-│   ├── certificate.png
-│
-└── README.md
 
 
 🛠 Skills Gained
